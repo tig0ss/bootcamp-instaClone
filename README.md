@@ -6,5 +6,5 @@
 
 Neste repositório temos o código em HTML e as configurações de estilo da página em CSS. 
 
-Vide arquivos na pasta <code>
+Vide arquivos na pasta **code**.
 
